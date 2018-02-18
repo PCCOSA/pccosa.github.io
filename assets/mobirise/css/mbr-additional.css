@@ -1875,25 +1875,3 @@ body {
 .cid-qJZbTvZgKb .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-qJZhGQOcCE {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background: #232323;
-  background: linear-gradient(0deg, #232323, #232323);
-}
-.cid-qJZhGQOcCE .image-block {
-  margin: auto;
-}
-.cid-qJZhGQOcCE figcaption {
-  position: relative;
-}
-.cid-qJZhGQOcCE figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qJZhGQOcCE .image-block {
-    width: 100% !important;
-  }
-}
